@@ -28,7 +28,6 @@ class DatabaseConfig:
 		           Column('username',String),
 		           Column('email',String),
 		           Column('password',String))
-		# Create all tables in meta
 		self.meta.create_all()
 
 	def getUserTable(self):
