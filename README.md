@@ -1,0 +1,1 @@
+This is a sample password manager set up, currently it is running in local cli. Improvements inclduing validation and integration telegram API is required
